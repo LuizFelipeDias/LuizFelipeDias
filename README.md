@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Luiz Felipe Dias</h1>
-<h3 align="center">Desenvolvedor focado em criar soluções modernas, escaláveis e de impacto</h3>
+<h3 align="center">Desenvolvedor focado em back-end</h3>
 
 <p align="center">
   <a href="https://github.com/LuizFelipeDias">
