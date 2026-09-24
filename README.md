@@ -78,8 +78,8 @@ Busco escrever código limpo, performático e fácil de manter, e estou sempre e
 ### Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizFelipeDias&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizFelipeDias&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
