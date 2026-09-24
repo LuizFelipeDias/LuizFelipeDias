@@ -17,7 +17,7 @@
 
 Sou desenvolvedor full stack, com maior proficiência no **back-end**: modelagem de dados, APIs, regras de negócio, integrações e infraestrutura em nuvem. Também trabalho com o front-end e compreendo bem o seu funcionamento, o que me permite entregar soluções completas e dialogar com todas as camadas de um projeto.
 
-Busco escrever código limpo, performático e fácil de manter, e estou sempre estudando novas ferramentas e boas práticas.
+Busco escrever código limpo e fácil de manter, e estou sempre estudando novas ferramentas e boas práticas.
 
 - Aberto a oportunidades e colaborações em projetos de tecnologia
 - Interesse em arquitetura de sistemas, cloud e automação
