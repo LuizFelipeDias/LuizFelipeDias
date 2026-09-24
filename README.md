@@ -1,72 +1,85 @@
-<h1 align="center">👋 Olá, eu sou Luiz Felipe Dias</h1>
-<h3 align="center">Desenvolvedor focado em back-end</h3>
+<h1 align="center">Luiz Felipe Dias</h1>
+<p align="center"><b>Desenvolvedor Full Stack · foco em Back-end</b></p>
 
 <p align="center">
-  <a href="https://github.com/LuizFelipeDias">
-    <img src="https://komarev.com/ghpvc/?username=LuizFelipeDias&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&color=0e75b6&style=flat" alt="contador de visualizações" />
-  </a>
   <a href="https://github.com/LuizFelipeDias?tab=followers">
-    <img src="https://img.shields.io/github/followers/LuizFelipeDias?label=Seguidores&style=social" alt="seguidores" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/LuizFelipeDias?label=Seguidores&logo=person-fill&color=0e75b6&style=for-the-badge" alt="Seguidores" />
   </a>
+  <a href="https://github.com/LuizFelipeDias?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/LuizFelipeDias?label=Estrelas&logo=star&color=e3b341&style=for-the-badge" alt="Estrelas" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LuizFelipeDias&label=Visualizações&color=0e75b6&style=for-the-badge" alt="Visualizações" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+### Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software e melhoria contínua. Meu foco é transformar ideias em produtos bem estruturados, com código limpo, performance e boa experiência para quem usa.
+Sou desenvolvedor full stack, com maior proficiência no **back-end**: modelagem de dados, APIs, regras de negócio, integrações e infraestrutura em nuvem. Também trabalho com o front-end e compreendo bem o seu funcionamento, o que me permite entregar soluções completas e dialogar com todas as camadas de um projeto.
 
-- 💼 Aberto a oportunidades e colaborações em projetos de tecnologia
-- 📚 Sempre estudando novas ferramentas e boas práticas
-- 🎯 Comprometido com entregas de qualidade e evolução constante
+Busco escrever código limpo, performático e fácil de manter, e estou sempre estudando novas ferramentas e boas práticas.
+
+- Aberto a oportunidades e colaborações em projetos de tecnologia
+- Interesse em arquitetura de sistemas, cloud e automação
 
 ---
 
-## 🧠 Competências
+### Linguagens e Frameworks
 
-### Linguagens & Fundamentos
+**Back-end**
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,nodejs,express&theme=dark" alt="Back-end" />
 </p>
 
-### Frameworks & Bibliotecas
+**Front-end**
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,html,css&theme=dark" alt="Front-end" />
 </p>
 
-### Banco de Dados, Cloud & Ferramentas
+### Banco de Dados, Cloud e Infraestrutura
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,redhat,docker,git,github&theme=dark" alt="Banco de dados e cloud" />
+</p>
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-20232A?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-20232A?style=for-the-badge&logo=aws&logoColor=FF9900" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Red_Hat-20232A?style=for-the-badge&logo=redhat&logoColor=EE0000" />
+</p>
+
+### Ferramentas (GitHub Student Developer Pack)
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Imgbot-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Doppler-20232A?style=for-the-badge&logo=doppler&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Codecov-20232A?style=for-the-badge&logo=codecov&logoColor=F01F7A" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Simple_Analytics-20232A?style=for-the-badge&logo=simpleanalytics&logoColor=FF4F64" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ConfigCat-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap_Studio-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepnote-20232A?style=for-the-badge&logo=deepnote&logoColor=3793EF" />
+  <img src="https://custom-icon-badges.demolab.com/badge/New_Relic-20232A?style=for-the-badge&logo=newrelic&logoColor=1CE783" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Camber-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Appwrite-20232A?style=for-the-badge&logo=appwrite&logoColor=FD366E" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Testmail-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Termius-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Travis_CI-20232A?style=for-the-badge&logo=travisci&logoColor=3EAAAF" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Blackfire-20232A?style=for-the-badge&logo=blackfire&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vaadin-20232A?style=for-the-badge&logo=vaadin&logoColor=00B4F0" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Pageclip-20232A?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CodeScene-20232A?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Repositórios em destaque
-
-> Explore meus projetos e evolução técnica diretamente no GitHub:
-
-- 🔗 [Ver todos os repositórios](https://github.com/LuizFelipeDias?tab=repositories)
-- ⭐ [Repositórios com mais estrelas](https://github.com/LuizFelipeDias?tab=repositories&q=&type=source&language=&sort=stargazers)
-- 🕒 [Projetos mais recentes](https://github.com/LuizFelipeDias?tab=repositories&sort=updated)
-
----
-
-## 📈 Atividade e métricas
+### Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeDias&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeDias&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeDias&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeDias&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -75,17 +88,21 @@ Sou apaixonado por tecnologia, desenvolvimento de software e melhoria contínua.
 
 ---
 
-## 🤝 Contato
+### Projetos
 
-<p>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- [Todos os repositórios](https://github.com/LuizFelipeDias?tab=repositories)
+- [Mais estrelados](https://github.com/LuizFelipeDias?tab=repositories&sort=stargazers)
+- [Atualizados recentemente](https://github.com/LuizFelipeDias?tab=repositories&sort=updated)
 
 ---
 
-<p align="center"><i>"Transformando ideias em soluções através de código, consistência e aprendizado contínuo."</i></p>
+### Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
